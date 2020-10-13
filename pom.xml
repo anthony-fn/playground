@@ -24,7 +24,7 @@
     <properties>
         <SpringContextVersion>5.0.5.RELEASE</SpringContextVersion>
         <mockitoVersion>2.18.3</mockitoVersion>
-        <junitversion>4.12</junitversion>
+        <junitversion>4.13.1</junitversion>
     </properties>
 
     <dependencies>
