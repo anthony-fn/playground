@@ -22,7 +22,7 @@
     </build>
 
     <properties>
-        <SpringContextVersion>5.0.5.RELEASE</SpringContextVersion>
+        <SpringContextVersion>6.0.0</SpringContextVersion>
         <mockitoVersion>2.18.3</mockitoVersion>
         <junitversion>4.12</junitversion>
     </properties>
